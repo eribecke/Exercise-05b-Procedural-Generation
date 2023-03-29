@@ -61,6 +61,7 @@ margin_bottom = 600.0
 color = Color( 0, 0, 0, 0.25098 )
 
 [node name="Restart" type="Button" parent="Menu"]
+pause_mode = 2
 margin_left = 474.0
 margin_top = 250.0
 margin_right = 574.0
@@ -71,6 +72,7 @@ __meta__ = {
 }
 
 [node name="Quit" type="Button" parent="Menu"]
+pause_mode = 2
 margin_left = 474.0
 margin_top = 300.0
 margin_right = 574.0
